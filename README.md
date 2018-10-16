@@ -13,7 +13,7 @@ There are 2 way to fix it.
 
 One is rename `.babelrc` to `babel.config.js`, Another is delete `src/store/package.json`.
 
-### On test-vector-icons branch
+### On fix-jest branch
 
 Fix run jest error of `TypeError: Cannot read property 'default' of undefined` at create-icon-set.js in react-native-vector-icons.
 
